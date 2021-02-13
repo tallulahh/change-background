@@ -1,0 +1,26 @@
+body {
+  background-color: #03011f;
+  color: #6cacc5;
+  font-family: "Source Sans Pro";
+  user-select: none;
+}
+
+.red {
+  background-color: #3f00ff;
+}
+
+.button {
+  width: 100px;
+  border: 3px solid #6cacc5;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px 10px;
+  left:0;right:0;
+  margin: 300px auto;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.5;
+}
